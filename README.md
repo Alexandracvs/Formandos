@@ -10,9 +10,9 @@ Aqui, você encontrará alguns dos projetos que desenvolvi, envolvendo ferrament
 
 Estou sempre em evolução, participando ativamente de cursos e oferecendo treinamentos em análise de dados, Power BI, modelagem de dados, gestão híbrida de projetos e projetos de TI.
 
-## 🔹 Formação em Business Intelligence:
+## 🔹 Formação em Business Intelligence IEFP:
 
-Durante a formação de 300 horas em Business Intelligence, desenvolvi competências essenciais para transformar dados em informação estratégica voltada à tomada de decisão. Essa formação teve como objetivo capacitar profissionais e organizações no uso de ferramentas tecnológicas para recolha, armazenamento, transformação e análise de dados, com foco na criação de dashboards interativos, dinâmicos e colaborativos.
+Durante a formação de 300 horas em Business Intelligence do IEFP, desenvolvi competências essenciais para transformar dados em informação estratégica voltada à tomada de decisão. Essa formação teve como objetivo capacitar profissionais e organizações no uso de ferramentas tecnológicas para recolha, armazenamento, transformação e análise de dados, com foco na criação de dashboards interativos, dinâmicos e colaborativos.
 Ao longo da formação, trabalhei temas fundamentais como:
 
 •	Aplicação de ferramentas para suporte à decisão;
@@ -22,4 +22,5 @@ Ao longo da formação, trabalhei temas fundamentais como:
 •	Criação de relatórios e dashboards eficazes;
 •	Storytelling com dados e visualização estratégica de informação;
 •	Execução de análises avançadas orientadas ao negócio.
-Como culminar desse processo, desenvolvi um projeto prático baseado no conjunto de dados da Olist, plataforma de e-commerce que fornece dados reais de vendas, produtos, clientes, categorias e entregas. Esse projeto permitiu aplicar todo o ciclo de desenvolvimento de um sistema de Business Intelligence, desde a modelação até à entrega de insights visuais.
+
+Como culminar desse processo, desenvolvi vários projetos prático baseado em coinjunto de dados diversos permitindo aplicar todo o ciclo de desenvolvimento de uma analise de Business Intelligence, desde a modelação até à entrega de insights visuais.
