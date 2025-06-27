@@ -49,7 +49,7 @@ Breve descrição do que o projeto faz, as tecnologias utilizadas e o impacto.
 
 
 
-# Power BI Portfolio Projects
+# Ferramentas
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
