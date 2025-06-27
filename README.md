@@ -10,6 +10,7 @@ Aqui, você encontrará alguns dos projetos que desenvolvi, envolvendo ferrament
 
 Estou sempre em evolução, participando ativamente de cursos e oferecendo treinamentos em análise de dados, Power BI, modelagem de dados, gestão híbrida de projetos e projetos de TI.
 
+
 ## 🔹 Formação em Business Intelligence IEFP:
 
 Durante a formação de 300 horas em Business Intelligence do IEFP, desenvolvi competências essenciais para transformar dados em informação estratégica voltada à tomada de decisão. Essa formação teve como objetivo capacitar profissionais e organizações no uso de ferramentas tecnológicas para recolha, armazenamento, transformação e análise de dados, com foco na criação de dashboards interativos, dinâmicos e colaborativos.
@@ -24,3 +25,20 @@ Ao longo da formação, trabalhei temas fundamentais como:
 •	Execução de análises avançadas orientadas ao negócio.
 
 Como culminar desse processo, desenvolvi vários projetos prático baseado em coinjunto de dados diversos permitindo aplicar todo o ciclo de desenvolvimento de uma analise de Business Intelligence, desde a modelação até à entrega de insights visuais.
+
+
+## 🔹 Projetos em Destaque:
+
+📌 [Projeto Final: Projeto Final – Análise de E-commerce Brasileiro (Olist)](https://github.com/Alexandracvs/projeto1)   – Em breve!  
+Breve descrição do que o projeto faz, as tecnologias utilizadas e o impacto.
+
+📌 [Projeto 2: Nome do Projeto](https://github.com/Alexandracvs/projeto2)   – Em breve!  
+Breve descrição do que o projeto faz, as tecnologias utilizadas e o impacto.
+
+📌 [Projeto 3: Nome do Projeto](https://github.com/Alexandracvs/projeto3)   – Em breve!  
+Breve descrição do que o projeto faz, as tecnologias utilizadas e o impacto.
+
+
+🔹 **Me encontre por aqui:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)  💬 Quer falar comigo, não deixe de entrar em contato ...
+
