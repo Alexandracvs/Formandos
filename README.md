@@ -29,7 +29,7 @@ Como culminar desse processo, desenvolvi vários projetos prático baseado em co
 
 ## 🔹 Projetos em Destaque:
 
-📌 [Projeto Final: Projeto Final – Análise de E-commerce Brasileiro (Olist)](https://github.com/Alexandracvs/projeto1)   – Em breve!  
+📌 [Projeto Final: Projeto Final – Análise de E-commerce Brasileiro (Olist)][(https://github.com/Alexandracvs/projeto1)](https://github.com/Alexandracvs/Analise-Olit)   – Em breve!  
 
 A Olist é uma plataforma brasileira de e-commerce que atua como intermediária entre pequenos lojistas e grandes marketplaces, facilitando a venda de produtos em escala nacional. O conjunto de dados utilizado neste projeto reúne cerca de 100 mil pedidos realizados entre 2016 e 2018, oferecendo uma visão abrangente do ecossistema de compras online no Brasil.
 
