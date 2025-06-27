@@ -31,18 +31,10 @@ Como culminar desse processo, desenvolvi vários projetos prático baseado em co
 
 📌 [Projeto Final: Projeto Final – Análise de E-commerce Brasileiro (Olist)](https://github.com/Alexandracvs/Analise-Olit)   
 
-A Olist é uma plataforma brasileira de e-commerce que atua como intermediária entre pequenos lojistas e grandes marketplaces, facilitando a venda de produtos em escala nacional. O conjunto de dados utilizado neste projeto reúne cerca de 100 mil pedidos realizados entre 2016 e 2018, oferecendo uma visão abrangente do ecossistema de compras online no Brasil.
-
-O dataset inclui:
-
-    Informações detalhadas sobre pedidos, produtos e pagamentos;
-    Dados de clientes e vendedores;
-    Avaliações dos consumidores;
-    Elementos geográficos como CEPs e coordenadas.
-
-Esse contexto oferece uma base rica para análise exploratória, permitindo investigar comportamentos de consumo, desempenho logístico, satisfação dos clientes e padrões de venda ao longo do tempo.
+A Olist é uma plataforma brasileira de e-commerce que conecta pequenos lojistas a grandes marketplaces. O projeto utiliza dados reais de cerca de 100 mil pedidos (2016–2018), incluindo informações sobre produtos, clientes, pagamentos e entregas. A base oferece amplo potencial para análise de vendas, logística e comportamento do consumidor.
 
 [Aceda para saber mais](https://github.com/Alexandracvs/Analise-Olit) 
+
 
 
 📌 [Projeto 2: Nome do Projeto](https://github.com/Alexandracvs/projeto2)   – Em breve!  
