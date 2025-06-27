@@ -33,7 +33,6 @@ Como culminar desse processo, desenvolvi vários projetos prático baseado em co
 
 A Olist é uma plataforma brasileira de e-commerce que conecta pequenos lojistas a grandes marketplaces. O projeto utiliza dados reais de cerca de 100 mil pedidos (2016–2018), incluindo informações sobre produtos, clientes, pagamentos e entregas. A base oferece amplo potencial para análise de vendas, logística e comportamento do consumidor.
 
-[Aceda para saber mais](https://github.com/Alexandracvs/Analise-Olit) 
 
 
 
